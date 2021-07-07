@@ -22,7 +22,7 @@ A sample of the data was provided and can be found in the `src/data` folder. The
 
 *The following can be found in: `src/data/products.json`
 
-```json
+```js
 {
     "categoryId": 2  // references the id of the category from the categories object
 }
