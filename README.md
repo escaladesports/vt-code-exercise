@@ -6,7 +6,7 @@ During this process we will be providing an exercise for you to complete.
 
 The expectation is that this can be completed within 4 days.
 
-Questions are encouraged and expected, please submit to this address: `vtweb@victorytailgate.com`
+Questions are encouraged and expected, please submit to this address (: `vtweb@victorytailgate.com`
 
 ---
 
@@ -32,7 +32,7 @@ A sample of the data was provided and can be found in the `src/data` folder. The
 
 ## Coding Exercise Tasks 📝
 
-The exercise consists of 2 main tasks, which are described below. Each task contains a list of _main requirements_ and a list of _bonus points_. You should focus on first completing the _main requirements_ for each task, and then working on _bonus points_ if you choose.
+The exercise consists of 2 main tasks, which are described below. Each task contains a list of _main requirements_ and a list of _bonus points_. You should focus on first completing the _main requirements_ for each task, and then working on _bonus points_ if you choose. Please try to comment your code.
 
 ### Setting Things Up 🔧
 
