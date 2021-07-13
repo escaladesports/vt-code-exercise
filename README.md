@@ -6,7 +6,7 @@ During this process we will be providing an exercise for you to complete.
 
 The expectation is that this can be completed within 4 days.
 
-If you have any questions please email us at `vtweb@victorytailgate.com`
+Questions are encouraged and expected, please submit to this address: `vtweb@victorytailgate.com`
 
 ---
 
@@ -96,5 +96,7 @@ Users must be able to add/edit/delete products and categories. You can choose ho
 2. Send us a link to your repo!
 
 ---
+
+Questions are encouraged and expected, please submit to this address: `vtweb@victorytailgate.com`
 
 _Congratulations!_ We look forward to reviewing your exercise and will reach out to you once we are done.
